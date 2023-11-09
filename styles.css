@@ -1,0 +1,47 @@
+/* Estilo para agregar margen a los botones */
+.btn-spacing {
+    margin-right: 5px; /* Puedes ajustar este valor según tu preferencia */
+}
+
+/* Estilo para aplicar tachado a las tareas completadas */
+.tarea-column.tachado {
+    text-decoration: line-through;
+}
+
+/* Estilo para las celdas de la tabla de tareas */
+.tarea-table th,
+.tarea-table td {
+    border: 1px solid #ccc; /* Añade bordes a las celdas */
+    padding: 8px; /* Espaciado interno de las celdas */
+}
+
+/* Estilo para las celdas de encabezado de la tabla de tareas */
+.tarea-table th {
+    background-color: #f0f0f0; /* Fondo de las celdas de encabezado */
+}
+
+/* Estilo para una tabla personalizada */
+.my-styled-table {
+    width: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+/* Estilo para las celdas de encabezado de una tabla personalizada */
+.my-styled-table .heading th {
+    padding: 10px 0;
+}
+
+/* Estilo para centrar elementos de texto */
+.text-center {
+    margin-top: 20px; /* Ajusta el valor según tus preferencias */
+}
+
+/* Estilo para aplicar tachado a elementos con la clase 'tachado' */
+.tachado {
+    text-decoration: line-through;
+}
+
+
