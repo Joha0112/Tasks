@@ -15,9 +15,9 @@ CREATE TABLE `tareas` (
 ) ENGINE=InnoDB;
  
 INSERT INTO `tareas` (`tareas`) VALUES 
-('Tarea 1'),
-('Tarea 2'),
-('Tarea 3');
+('Contestar a los seguidores del canal de youtube.'),
+('Usar Bootstrap para mejorar el diseño.'),
+('Revisar el twitter y los repost que he generado.');
 
 ALTER TABLE nombre_de_tu_tabla AUTO_INCREMENT = 1;
 6) con los pasos anteriores y la creación de la base de datos se puede proceder al proyecto que está bien documentado cada linea. 
